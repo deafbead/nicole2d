@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Nicole",
+"productVersion": "0.1",
+"dataUrl": "nicole2d.data.unityweb",
+"wasmCodeUrl": "nicole2d.wasm.code.unityweb",
+"wasmFrameworkUrl": "nicole2d.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.1.1f1"
+}
